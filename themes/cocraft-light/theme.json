@@ -1,0 +1,30 @@
+{
+  "id": "cocraft-light",
+  "name": "cocraft 浅色",
+  "author": "cocraft",
+  "version": "1.0.0",
+  "description": "中性科技风 · 浅色（灰白 + 靛蓝）",
+  "mode": "light",
+  "preview": "preview.png",
+  "vars": {
+    "--paper": "#f6f8fb",
+    "--paper-2": "#eef1f5",
+    "--paper-3": "#e4e8ee",
+    "--ink": "#1b2027",
+    "--ink-dim": "#5c6672",
+    "--ink-faint": "#98a2ae",
+    "--hi": "#2563eb",
+    "--hi-deep": "#1d4ed8",
+    "--hi-wash": "#e8effd",
+    "--gold": "#0ea5e9",
+    "--gold-soft": "#7dd3fc",
+    "--sakura": "#dbeafe",
+    "--line": "rgba(27,32,39,.14)",
+    "--line-soft": "rgba(27,32,39,.07)",
+    "--ok": "#3f7d58",
+    "--run": "#0ea5e9",
+    "--err": "#b3261e"
+  },
+  "css": "theme.css",
+  "license": "MIT"
+}
