@@ -2,6 +2,20 @@
   "schema": 1,
   "themes": [
     {
+      "id": "cocraft-tech",
+      "name": "cocraft 科技",
+      "author": "cocraft",
+      "version": "1.0.0",
+      "mode": "dark",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "path": "themes/cocraft-tech",
+      "description": "中性科技风 · 明/暗双模式",
+      "preview": "themes/cocraft-tech/preview.png"
+    },
+    {
       "id": "cocraft-dark",
       "name": "cocraft 深色",
       "author": "cocraft",
