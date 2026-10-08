@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "themes": [
+    {
+      "id": "cocraft-dark",
+      "name": "cocraft 深色",
+      "author": "cocraft",
+      "version": "1.0.0",
+      "mode": "dark",
+      "path": "themes/cocraft-dark",
+      "description": "中性科技风 · 深色（石墨 + 青）",
+      "preview": "themes/cocraft-dark/preview.png"
+    },
+    {
+      "id": "cocraft-light",
+      "name": "cocraft 浅色",
+      "author": "cocraft",
+      "version": "1.0.0",
+      "mode": "light",
+      "path": "themes/cocraft-light",
+      "description": "中性科技风 · 浅色（灰白 + 靛蓝）",
+      "preview": "themes/cocraft-light/preview.png"
+    }
+  ]
+}
