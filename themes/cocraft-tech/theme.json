@@ -1,0 +1,53 @@
+{
+  "id": "cocraft-tech",
+  "name": "cocraft 科技",
+  "author": "cocraft",
+  "version": "1.0.0",
+  "description": "中性科技风 · 明/暗双模式（石墨+青 / 灰白+靛蓝）",
+  "mode": "dark",
+  "preview": "preview.png",
+  "css": "theme.css",
+  "license": "MIT",
+  "light": {
+    "vars": {
+      "--paper": "#f6f8fb",
+      "--paper-2": "#eef1f5",
+      "--paper-3": "#e4e8ee",
+      "--ink": "#1b2027",
+      "--ink-dim": "#5c6672",
+      "--ink-faint": "#98a2ae",
+      "--hi": "#2563eb",
+      "--hi-deep": "#1d4ed8",
+      "--hi-wash": "#e8effd",
+      "--gold": "#0ea5e9",
+      "--gold-soft": "#7dd3fc",
+      "--sakura": "#dbeafe",
+      "--line": "rgba(27,32,39,.14)",
+      "--line-soft": "rgba(27,32,39,.07)",
+      "--ok": "#3f7d58",
+      "--run": "#0ea5e9",
+      "--err": "#b3261e"
+    }
+  },
+  "dark": {
+    "vars": {
+      "--paper": "#0d1117",
+      "--paper-2": "#161b22",
+      "--paper-3": "#21262d",
+      "--ink": "#e6edf3",
+      "--ink-dim": "#9aa4b2",
+      "--ink-faint": "#6e7681",
+      "--hi": "#22d3ee",
+      "--hi-deep": "#67e8f9",
+      "--hi-wash": "#0e2a33",
+      "--gold": "#a371f7",
+      "--gold-soft": "#4c2f7a",
+      "--sakura": "#1e3a5f",
+      "--line": "rgba(230,237,243,.16)",
+      "--line-soft": "rgba(230,237,243,.08)",
+      "--ok": "#5fb98a",
+      "--run": "#a371f7",
+      "--err": "#ff6b6b"
+    }
+  }
+}
