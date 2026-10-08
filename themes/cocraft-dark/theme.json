@@ -1,0 +1,30 @@
+{
+  "id": "cocraft-dark",
+  "name": "cocraft 深色",
+  "author": "cocraft",
+  "version": "1.0.0",
+  "description": "中性科技风 · 深色（石墨 + 青）",
+  "mode": "dark",
+  "preview": "preview.png",
+  "vars": {
+    "--paper": "#0d1117",
+    "--paper-2": "#161b22",
+    "--paper-3": "#21262d",
+    "--ink": "#e6edf3",
+    "--ink-dim": "#9aa4b2",
+    "--ink-faint": "#6e7681",
+    "--hi": "#22d3ee",
+    "--hi-deep": "#67e8f9",
+    "--hi-wash": "#0e2a33",
+    "--gold": "#a371f7",
+    "--gold-soft": "#4c2f7a",
+    "--sakura": "#1e3a5f",
+    "--line": "rgba(230,237,243,.16)",
+    "--line-soft": "rgba(230,237,243,.08)",
+    "--ok": "#5fb98a",
+    "--run": "#a371f7",
+    "--err": "#ff6b6b"
+  },
+  "css": "theme.css",
+  "license": "MIT"
+}
