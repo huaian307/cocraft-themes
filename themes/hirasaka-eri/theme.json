@@ -1,0 +1,55 @@
+{
+  "id": "hirasaka-eri",
+  "name": "绘梨衣",
+  "author": "cocraft",
+  "version": "1.0.0",
+  "description": "《龙族》上杉绘梨衣配色：白昼＝白衣绯袴（和纸白 + 绯红 + 金线），夜晚＝黑纹付羽织·黄金瞳。仅配色与样式，不含任何图片素材。",
+  "mode": "light",
+  "preview": "preview.png",
+  "license": "MIT",
+  "vars": {
+    "--radius": "3px"
+  },
+  "light": {
+    "vars": {
+      "--paper": "#faf7f2",
+      "--paper-2": "#f2ece1",
+      "--paper-3": "#e9e1d3",
+      "--ink": "#241f1d",
+      "--ink-dim": "#6d635b",
+      "--ink-faint": "#a2988e",
+      "--hi": "#c8102e",
+      "--hi-deep": "#96071f",
+      "--hi-wash": "#fbeaea",
+      "--gold": "#a8842c",
+      "--gold-soft": "#d9c07a",
+      "--sakura": "#f2c6cf",
+      "--line": "rgba(36, 31, 29, .14)",
+      "--line-soft": "rgba(36, 31, 29, .07)",
+      "--ok": "#3f7d58",
+      "--run": "#a8842c",
+      "--err": "#b3261e"
+    }
+  },
+  "dark": {
+    "vars": {
+      "--paper": "#141110",
+      "--paper-2": "#1d1817",
+      "--paper-3": "#262020",
+      "--ink": "#efe5da",
+      "--ink-dim": "#a2958a",
+      "--ink-faint": "#6b6058",
+      "--hi": "#e03a52",
+      "--hi-deep": "#ff5c72",
+      "--hi-wash": "#2a1619",
+      "--gold": "#dfb654",
+      "--gold-soft": "#7a6533",
+      "--sakura": "#6e3542",
+      "--line": "rgba(239, 229, 218, .16)",
+      "--line-soft": "rgba(239, 229, 218, .08)",
+      "--ok": "#5fb98a",
+      "--run": "#dfb654",
+      "--err": "#ff6b6b"
+    }
+  }
+}
