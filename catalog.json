@@ -2,6 +2,20 @@
   "schema": 1,
   "themes": [
     {
+      "id": "hirasaka-eri",
+      "name": "绘梨衣",
+      "author": "cocraft",
+      "version": "1.0.0",
+      "mode": "light",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "path": "themes/hirasaka-eri",
+      "description": "《龙族》上杉绘梨衣配色 · 白昼/夜晚（仅配色，无图片素材）",
+      "preview": "themes/hirasaka-eri/preview.png"
+    },
+    {
       "id": "cocraft-tech",
       "name": "cocraft 科技",
       "author": "cocraft",
